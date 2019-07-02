@@ -1,0 +1,5 @@
+Reprojected Error with clean 2D points is 0.0000
+Pose Error with clean 2D points is 0.0000
+------------------------------
+Reprojected Error with noisy 2D points is 2.3856
+Pose Error with noisy 2D points is 0.1726

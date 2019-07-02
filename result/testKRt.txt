@@ -1,0 +1,7 @@
+Intrinsic Error with clean 2D points is 2.0000
+Rotation Error with clean 2D points is 2.0000
+Translation Error with clean 2D points is 0.1026
+------------------------------
+Intrinsic Error with clean 2D points is 2.0238
+Rotation Error with clean 2D points is 2.0000
+Translation Error with clean 2D points is 0.3238
